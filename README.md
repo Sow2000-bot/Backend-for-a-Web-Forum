@@ -1,6 +1,5 @@
 
-# Estimated hours spent on the project 
-We spent around 50 hours for this project.
+# Backend for a Web Forum
 
 # Description how we tested our code #
 To test the provided code, we used following the steps below:
